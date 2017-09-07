@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/itsnhduc/spm-pkg-class.git"
   },
-  "author": "",
+  "author": "itsnhduc",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/itsnhduc/spm-pkg-class/issues"
